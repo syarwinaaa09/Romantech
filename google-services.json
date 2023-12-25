@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1050005367404",
+    "project_id": "romantech-1e397",
+    "storage_bucket": "romantech-1e397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050005367404:android:467b969f9f250898310649",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050005367404-42jrskd56ibdk37h2j48m3dkb8a40vl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "9e52aa0d126b8697793dcdf249bdc2963d8ae530"
+          }
+        },
+        {
+          "client_id": "1050005367404-rp4ifm8rvrjs9uutfcjm62abefqggm1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrEiLQs_NnFZFAhLNDRuDG29oGXiG1Yfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050005367404-rp4ifm8rvrjs9uutfcjm62abefqggm1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050005367404-2pc4gsbvgitc7v8jjd9c6eva2draisd1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
